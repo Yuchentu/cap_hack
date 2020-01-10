@@ -107,3 +107,4 @@ wrapt==1.11.2
 yelpapi==2.4.0
 zipp==0.6.0
 gunicorn
+flask_cors
